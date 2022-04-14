@@ -1,0 +1,300 @@
+{
+  "project_info": {
+    "project_number": "988254920820",
+    "firebase_url": "https://dailybets-868d5.firebaseio.com",
+    "project_id": "dailybets-868d5",
+    "storage_bucket": "dailybets-868d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988254920820:android:80cf797e50b4eaff803121",
+        "android_client_info": {
+          "package_name": "balleballe.cricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988254920820-2l4l0smudh5n3rib1c6j3s29sa3lmlh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "balleballe.cricket",
+            "certificate_hash": "4d6534554ed7e48373d16d48eba44ef320bf52bc"
+          }
+        },
+        {
+          "client_id": "988254920820-iijgpugdium0oi0qdulkl53th1l79491.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "balleballe.cricket",
+            "certificate_hash": "f1b976f3394c4e4d3bc57f68c5f52a7fb879da4d"
+          }
+        },
+        {
+          "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHes1cKiPXCPc9XrnHnP3mNP-CtLw7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988254920820:android:a89bc6467a259440803121",
+        "android_client_info": {
+          "package_name": "predict.cricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988254920820-4en0774jl3bv0vbj30j0ljuogb21knj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "predict.cricket",
+            "certificate_hash": "c4c64c405c80e45462660b7187ecdf9fcd1ce2e1"
+          }
+        },
+        {
+          "client_id": "988254920820-70qn3n8ouf41n2pmt09396lg009qjud7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "predict.cricket",
+            "certificate_hash": "79f4eda270ead49063fa9141a334b8382a344c68"
+          }
+        },
+        {
+          "client_id": "988254920820-huqds6d8mdv9a7k4bouqs8jj1hldkn43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "predict.cricket",
+            "certificate_hash": "8101239ec8a09aba908ecc71b5e4eee7d6432f63"
+          }
+        },
+        {
+          "client_id": "988254920820-p4v462amabhr2qrnccsbjhm0pa1phf1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "predict.cricket",
+            "certificate_hash": "3da4ee13b414e0fe4fc6acf84c6a8d80ea264cd3"
+          }
+        },
+        {
+          "client_id": "988254920820-q45qgnbvh52ipfdbnf6rd4kt0umnk72q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "predict.cricket",
+            "certificate_hash": "f1b976f3394c4e4d3bc57f68c5f52a7fb879da4d"
+          }
+        },
+        {
+          "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHes1cKiPXCPc9XrnHnP3mNP-CtLw7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988254920820:android:4c9d23516524bdae803121",
+        "android_client_info": {
+          "package_name": "sportsfight.cricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988254920820-8nebf3119joij5kgulf45digsv26jc5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.cricket",
+            "certificate_hash": "8101239ec8a09aba908ecc71b5e4eee7d6432f63"
+          }
+        },
+        {
+          "client_id": "988254920820-8o6oafg8urv40h36b92cj13lqan5lk4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.cricket",
+            "certificate_hash": "3da4ee13b414e0fe4fc6acf84c6a8d80ea264cd3"
+          }
+        },
+        {
+          "client_id": "988254920820-9b30vmcc517uln74lu88bcs6ahq4vv38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.cricket",
+            "certificate_hash": "c4c64c405c80e45462660b7187ecdf9fcd1ce2e1"
+          }
+        },
+        {
+          "client_id": "988254920820-i3pturr2vl4nhmbj11fdclhvc7fjnntu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.cricket",
+            "certificate_hash": "4d6534554ed7e48373d16d48eba44ef320bf52bc"
+          }
+        },
+        {
+          "client_id": "988254920820-vjev8552jjc8iqsoi74jmmt5s696v7s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.cricket",
+            "certificate_hash": "23e55e9edd0b34576416cf31a6f6a311834c82e7"
+          }
+        },
+        {
+          "client_id": "988254920820-vjufaepg9do7k5daq15vnjumudme5a1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.cricket",
+            "certificate_hash": "f1b976f3394c4e4d3bc57f68c5f52a7fb879da4d"
+          }
+        },
+        {
+          "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHes1cKiPXCPc9XrnHnP3mNP-CtLw7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988254920820:android:6854e0c7d166a83a803121",
+        "android_client_info": {
+          "package_name": "sportsfight.crickettest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988254920820-977vidv3vd5u76ctpjlphajg37ug0aub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.crickettest",
+            "certificate_hash": "3da4ee13b414e0fe4fc6acf84c6a8d80ea264cd3"
+          }
+        },
+        {
+          "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHes1cKiPXCPc9XrnHnP3mNP-CtLw7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988254920820:android:eb513e1f6032941e803121",
+        "android_client_info": {
+          "package_name": "sportsfight.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988254920820-2olc3peatf5m0vi241f5tv6kfrrcl2pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.dev",
+            "certificate_hash": "c4c64c405c80e45462660b7187ecdf9fcd1ce2e1"
+          }
+        },
+        {
+          "client_id": "988254920820-iolk14b3h0omum73pfk938bhqpmrq9cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.dev",
+            "certificate_hash": "8101239ec8a09aba908ecc71b5e4eee7d6432f63"
+          }
+        },
+        {
+          "client_id": "988254920820-ktklp030i1kqcv66qttfccstvtm4107i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.dev",
+            "certificate_hash": "3da4ee13b414e0fe4fc6acf84c6a8d80ea264cd3"
+          }
+        },
+        {
+          "client_id": "988254920820-ube0bk6oe76df05i6onf049b2fspn7on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sportsfight.dev",
+            "certificate_hash": "7ea332f33a6bd27de422909ec0cdc555f345c083"
+          }
+        },
+        {
+          "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHes1cKiPXCPc9XrnHnP3mNP-CtLw7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988254920820-1e0jaa4jj4ful2d4v2aeank4t0qldbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
